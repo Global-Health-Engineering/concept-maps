@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T12:22:48.886Z" agent="5.0 (Macintosh)" etag="jZsgy1L3yXnsnfXlEf5Z" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T10:33:37.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zWi9R1-NGGz-KohMYkFW" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2308" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <object label="Step 12: color" id="2JBL8e-sjkAbcdYht8KX-297">
@@ -148,7 +148,7 @@
         <mxCell id="2JBL8e-sjkAbcdYht8KX-345" value="GHE ETH website" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fillColor=none;sketch=1;labelBackgroundColor=none;strokeColor=#000080;fillStyle=zigzag;fontColor=#000080;" parent="2JBL8e-sjkAbcdYht8KX-261" vertex="1">
           <mxGeometry x="520" y="535" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2JBL8e-sjkAbcdYht8KX-346" value="" style="edgeStyle=none;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#000080;fontFamily=Helvetica;fontSize=11;fontColor=#000080;endArrow=classic;startSize=5;endSize=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2JBL8e-sjkAbcdYht8KX-261" edge="1" target="2JBL8e-sjkAbcdYht8KX-344">
+        <mxCell id="2JBL8e-sjkAbcdYht8KX-346" value="" style="edgeStyle=none;shape=connector;rounded=1;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#000080;fontFamily=Helvetica;fontSize=11;fontColor=#000080;endArrow=classic;startSize=5;endSize=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2JBL8e-sjkAbcdYht8KX-261" target="2JBL8e-sjkAbcdYht8KX-344" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="402" y="510" as="sourcePoint" />
             <mxPoint x="400" y="530" as="targetPoint" />
