@@ -11,6 +11,8 @@ All material made available under the [Creative Commons - Attribution license](L
 
 ### research data management workflow
 
+<a href="diagrams/ghe-rdm-workflow.svg"><img src="diagrams/ghe-rdm-workflow.svg" alt="research data management workflow of the global health engineering group at ETH Zurich" style="border: 1px solid #000080; padding: 4px;" /></a>
+
 ## Contributing
 
 ### Formatting
