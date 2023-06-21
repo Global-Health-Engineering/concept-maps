@@ -4,9 +4,12 @@ Mental models prepared for lessons taught by the Global Health Engineering group
 
 All material made available under the [Creative Commons - Attribution license](LICENSE.md).
 
+-   [Concept Maps](#concept-maps)
+    - [research data management workflow](#research-data-management-workflow)
+
 ## Concept Maps
 
-- 
+### research data management workflow
 
 ## Contributing
 
