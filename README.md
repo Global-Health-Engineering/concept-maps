@@ -55,7 +55,7 @@ All material made available under the [Creative Commons - Attribution license](L
 -   Do *not* select "Transparent Background", "Shadow", "Embed Images",
     or "Include a copy of my diagram".
 
-<img src="imf/save-png-parameters.png" alt="Parameters for saving PNG" style="border: 1px solid #000080; padding: 4px;"/>
+<img src="img/save-png-parameters.png" alt="Parameters for saving PNG" style="border: 1px solid #000080; padding: 4px;"/>
 
 ### Discussion
 
