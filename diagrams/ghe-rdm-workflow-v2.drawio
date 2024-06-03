@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T13:36:42.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="J5jOigj9xiWzIg8hc9F_" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T13:37:48.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Lld5EOQqweub9s0D9PxE" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1026" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -386,16 +386,16 @@
           <mxCell style="" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         </object>
         <mxCell id="2JBL8e-sjkAbcdYht8KX-195" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000080;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endSize=5;startSize=5;sketch=1;curveFitting=1;jiggle=2;" parent="2JBL8e-sjkAbcdYht8KX-194" vertex="1">
-          <mxGeometry y="130" width="820" height="20" as="geometry" />
+          <mxGeometry x="20" y="610" width="910" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2JBL8e-sjkAbcdYht8KX-196" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000080;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endSize=5;startSize=5;sketch=1;curveFitting=1;jiggle=2;" parent="2JBL8e-sjkAbcdYht8KX-194" vertex="1">
-          <mxGeometry y="100" width="400" height="20" as="geometry" />
+          <mxGeometry x="20" y="580" width="460" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2JBL8e-sjkAbcdYht8KX-197" value="~ 1 to 3 years" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Helvetica;fontColor=#000080;fontStyle=1" parent="2JBL8e-sjkAbcdYht8KX-194" vertex="1">
-          <mxGeometry x="722" y="110" width="98" height="30" as="geometry" />
+          <mxGeometry x="830" y="590" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2JBL8e-sjkAbcdYht8KX-198" value="~ 3 to 9 months" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Helvetica;fontColor=#000080;fontStyle=1" parent="2JBL8e-sjkAbcdYht8KX-194" vertex="1">
-          <mxGeometry x="280" y="80" width="120" height="30" as="geometry" />
+          <mxGeometry x="360" y="555" width="120" height="30" as="geometry" />
         </mxCell>
         <object label="Step 1 - Publication workflow" id="2JBL8e-sjkAbcdYht8KX-180">
           <mxCell style="" parent="WIyWlLk6GJQsqaUBKTNV-0" />
